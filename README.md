@@ -2,10 +2,10 @@
 
 Welcome to the fresh-ui css github page
 
-You can link the css using the cdn link: https://raw.githubusercontent.com/Pankaj-Dev-Hacker/Fresh-UI/master/css/fresh-ui.css
+You can link the css using the cdn link: https://raw.githubusercontent.com/Pankaj-Dev-Hacker/Fresh-UI-/master/css/fresh-ui.css
 # CDN CODE: 
 
-&lt;link rel="stylesheet" href="https://raw.githubusercontent.com/Pankaj-Dev-Hacker/Fresh-UI/master/css/fresh-ui.css"&gt;
+&lt;link rel="stylesheet" href="https://raw.githubusercontent.com/Pankaj-Dev-Hacker/Fresh-UI-/master/css/fresh-ui.css"&gt;
 
 or download the css file
 
