@@ -7,30 +7,30 @@ It's for those who don't know react.js
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
 
 :root {
-  --bs-blue: #0d6efd;
-  --bs-indigo: #6610f2;
-  --bs-purple: #6f42c1;
-  --bs-pink: #d63384;
-  --bs-red: #dc3545;
-  --bs-orange: #fd7e14;
-  --bs-yellow: #ffc107;
-  --bs-green: #28a745;
-  --bs-teal: #20c997;
-  --bs-cyan: #17a2b8;
-  --bs-white: #fff;
-  --bs-gray: #6c757d;
-  --bs-gray-dark: #343a40;
-  --bs-primary: #0d6efd;
-  --bs-secondary: #6c757d;
-  --bs-success: #28a745;
-  --bs-info: #17a2b8;
-  --bs-warning: #ffc107;
-  --bs-danger: #dc3545;
-  --bs-light: #f8f9fa;
-  --bs-dark: #343a40;
-  --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+  --fr-ui-blue: #0d6efd;
+  --fr-ui-indigo: #6610f2;
+  --fr-ui-purple: #6f42c1;
+  --fr-ui-pink: #d63384;
+  --fr-ui-red: #dc3545;
+  --fr-ui-orange: #fd7e14;
+  --fr-ui-yellow: #ffc107;
+  --fr-ui-green: #28a745;
+  --fr-ui-teal: #20c997;
+  --fr-ui-cyan: #17a2b8;
+  --fr-ui-white: #fff;
+  --fr-ui-gray: #6c757d;
+  --fr-ui-gray-dark: #343a40;
+  --fr-ui-primary: #0d6efd;
+  --fr-ui-secondary: #6c757d;
+  --fr-ui-success: #28a745;
+  --fr-ui-info: #17a2b8;
+  --fr-ui-warning: #ffc107;
+  --fr-ui-danger: #dc3545;
+  --fr-ui-light: #f8f9fa;
+  --fr-ui-dark: #343a40;
+  --fr-ui-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --fr-ui-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  --fr-ui-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
 }
 
 .btn{
