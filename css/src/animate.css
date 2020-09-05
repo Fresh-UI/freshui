@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+
+.btn-rotate {
+color: #1D9AF2;
+background-color: #292D3E;
+border: 1px solid #1D9AF2;
+border-radius: 4px;
+padding: 0 15px;
+cursor: pointer;
+height:32px;
+font-size:14px;
+transition: all 0.2s ease-in-out;
+opacity: 0.5;
+}
+.btn-rotate:hover {
+transform: rotateZ(-30deg);
+}
+
+
+.btn-shape {
+   color: #1D9AF2;
+   background-color: #292D3E;
+   border: 1px solid #1D9AF2;
+   border-radius: 4px;
+   padding: 0 15px;
+   cursor: pointer;
+   height: 32px;
+   font-size: 14px;
+   transition: all 0.2s ease-in-out;
+  }
+
+.btn-shape:hover {
+    border-radius: 50%;
+ }
+
+.btn-shrink {
+    color: #1D9AF2;
+    background-color: #292D3E;
+    border: 1px solid #1D9AF2;
+    border-radius: 4px;
+    padding: 0 15px;
+    cursor: pointer;
+    height: 32px;
+    font-size: 14px;
+    transition: all 0.2s ease-in-out;
+}
+
+.btn-shrink:hover {
+    transform: scale(0.8); 
+}
+
+
+.btn-shadow {
+   color: #1D9AF2;
+   background-color: #292D3E;
+   border: 1px solid #1D9AF2;
+   border-radius: 4px;
+   padding: 0 15px;
+   cursor: pointer;
+   height: 32px;
+   font-size: 14px;
+   transition: all 0.2s ease-in-out;
+}
+
+.btn-shadow:hover {
+  box-shadow: 1px 1px #53a7ea, 2px 2px #53a7ea, 3px 3px #53a7ea;
+  transform: translateX(-3px);
+}

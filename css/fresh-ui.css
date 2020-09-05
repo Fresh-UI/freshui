@@ -5,6 +5,7 @@ It's for those who don't know react.js
 
 */
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url("src/animate.css");
 
 :root {
   --fr-ui-blue: #0d6efd;
