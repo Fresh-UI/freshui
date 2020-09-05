@@ -14,7 +14,7 @@ This is the beta version of the fresh-ui css framework.
 We are currently developing it and we need people to test it.
 Any ideas are welcome.
 
-"# Fresh-UI" 
-"# Fresh-UI" 
+## Fresh-UI"
+
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a8a04f95-7767-4044-ba09-dea411f9b316/deploy-status)](https://app.netlify.com/sites/freshui/deploys)
