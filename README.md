@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/Pankaj-Dev-Hacker/Fresh-UI?color=black&style=flat-square)
+![GitHub](https://img.shields.io/github/license/Pankaj-Dev-Hacker/Fresh-UI?color=grren&style=flat-square)
 
 # Fresh-UI
 
