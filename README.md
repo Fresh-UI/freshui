@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/Pankaj-Dev-Hacker/Fresh-UI?color=black&style=flat-square)
+
 # Fresh-UI
 
 Welcome to the fresh-ui css github page
