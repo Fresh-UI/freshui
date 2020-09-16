@@ -19,7 +19,7 @@ We are currently developing it and we need people to test it.
 Any ideas are welcome.
 
 We would also appreciate people contributing their modified code to us through gmail address: technicalfriend.help@gmail.com
-No changes should be directly committed without the notice and permissions of creator.
+No changes should be directly committed to the master branch without the notice and permissions of creator.
 
 ## Fresh-UI"
 
