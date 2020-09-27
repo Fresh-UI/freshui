@@ -18,7 +18,7 @@ This is the beta version of the fresh-ui css framework.
 We are currently developing it and we need people to test it.
 Any ideas are welcome.
 
-We would also appreciate people contributing their modified code to us through gmail address: technicalfriend.help@gmail.com
+We would also appreciate people contributing their modified code to us through gmail address: technicalfriend.help@gmail.com,fr.ui.official.2020@gmail.com
 No changes should be directly committed to the master branch without the notice and permissions of creator.
 
 ## Fresh-UI"
