@@ -1,3 +1,6 @@
+$dark: black;
+$main: #2196f3;
+
 /*
 Welcome to the fresh-ui css.This is the fresh ui css file.
 It's based on the material design for react by google.
@@ -44,7 +47,7 @@ It's for those who don't know react.js
 }
 
 .btn-fr-ui{
-    background-color: #2196f3;
+    background-color: $main;
     border: none;
     border-radius: 12px;
     padding: 15px 32px;
@@ -76,6 +79,18 @@ It's for those who don't know react.js
     font-size: 16px;
 }
 
+.btn-black{
+    background-color: $dark;
+    color: white;
+    border-radius: 12px;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+
 .fr-ui-input{
     border-radius: 12px;
 }
@@ -98,7 +113,7 @@ It's for those who don't know react.js
 }
 
 .fr-ui-primary{
-    color:#2196f0
+    color:$main
 }
 
 .fr-ui-success{
