@@ -1,4 +1,4 @@
-![GitHub](https://img.shields.io/github/license/Pankaj-Dev-Hacker/Fresh-UI?color=grren&style=flat-square)
+![GitHub](https://img.shields.io/github/license/Fresh-UI/freshui?color=black&style=flat-square)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a8a04f95-7767-4044-ba09-dea411f9b316/deploy-status)](https://app.netlify.com/sites/freshui/deploys)
 
