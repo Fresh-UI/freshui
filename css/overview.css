@@ -1,0 +1,21 @@
+#start{
+    background-color: white;
+    width: 30%;
+}
+
+#start:hover{
+    background-color: whitesmoke;
+    width: 30%;
+    border-radius: 16px;
+}
+
+#modifiers{
+    background-color: white;
+    width: 30%;
+}
+
+#modifiers:hover{
+    background-color: whitesmoke;
+    width: 30%;
+    border-radius: 16px;
+}
