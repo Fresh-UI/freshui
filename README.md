@@ -20,3 +20,6 @@ Any ideas are welcome.
 
 We would also appreciate people contributing their modified code to us through gmail address: technicalfriend.help@gmail.com,fr.ui.official.2020@gmail.com
 <!--- No changes should be directly committed to the master branch without the notice and permissions of creator. --->
+
+#SCSS Deprecated
+We now longer support scss and therefore it is deprecated and you won't be able to use it.
