@@ -22,4 +22,4 @@ We would also appreciate people contributing their modified code to us through g
 <!--- No changes should be directly committed to the master branch without the notice and permissions of creator. --->
 
 # SCSS Deprecated
-We now longer support scss and therefore it is deprecated and you won't be able to use it.
+We now no longer support scss and therefore it is deprecated and you won't be able to use it.
