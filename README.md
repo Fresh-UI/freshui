@@ -4,7 +4,7 @@
 
 ![GitHub Stars](https://img.shields.io/github/stars/Fresh-UI/freshui?style=for-the-badge)
 
-![jsDelivr](https://data.jsdelivr.com/v1/package/npm/@freshui/freshui/badge)
+![jsDelivr](https://data.jsdelivr.com/v1/package/npm/@freshui/freshui/badge?style=for-the-badge)
 
 # Fresh-UI
 
