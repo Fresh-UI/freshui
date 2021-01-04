@@ -1,4 +1,8 @@
-![GitHub](https://img.shields.io/github/license/Fresh-UI/freshui?color=black&style=flat-square)
+![GitHub](https://img.shields.io/github/license/Fresh-UI/freshui?style=for-the-badge)
+
+![GitHub Forks](https://img.shields.io/github/forks/Fresh-UI/freshui?style=for-the-badge)
+
+![GitHub Stars](https://img.shields.io/github/stars/Fresh-UI/freshui?style=for-the-badge)
 
 <img src="https://data.jsdelivr.com/v1/package/npm/@freshui/freshui/badge">
 
