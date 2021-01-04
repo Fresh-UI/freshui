@@ -10,7 +10,7 @@
 
 Welcome to the fresh-ui css github page
 
-You can link the css using the cdn link: https://cdn.jsdelivr.net/npm/@freshui/freshui@latest/css/fresh-ui.min.css
+You can link the css using the cdn link: https://cdn.jsdelivr.net/npm/@freshui/freshui/css/fresh-ui.min.css
 # CDN CODE: 
 
 &lt;link rel="stylesheet" href="https://unpkg.com/@freshui/freshui@latest/css/fresh-ui.min.css"&gt;
