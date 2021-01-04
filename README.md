@@ -4,10 +4,7 @@
 
 ![GitHub Stars](https://img.shields.io/github/stars/Fresh-UI/freshui?style=for-the-badge)
 
-<img src="https://data.jsdelivr.com/v1/package/npm/@freshui/freshui/badge">
-
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a8a04f95-7767-4044-ba09-dea411f9b316/deploy-status)](https://app.netlify.com/sites/freshui/deploys)
+![jsDelivr](https://data.jsdelivr.com/v1/package/npm/@freshui/freshui/badge)
 
 # Fresh-UI
 
