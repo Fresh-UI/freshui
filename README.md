@@ -15,8 +15,6 @@ You can link the css using the cdn link: https://cdn.jsdelivr.net/npm/@freshui/f
 
 &lt;link rel="stylesheet" href="https://unpkg.com/@freshui/freshui@latest/css/fresh-ui.min.css"&gt;
 
-or download the css file
-
 # NOTICE:
 This is the beta version of the fresh-ui css framework.
 We are currently developing it and we need people to test it.
