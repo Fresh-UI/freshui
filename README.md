@@ -1,5 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/Fresh-UI/freshui?color=black&style=flat-square)
 
+<img src="https://data.jsdelivr.com/v1/package/npm/@freshui/freshui/badge">
+
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a8a04f95-7767-4044-ba09-dea411f9b316/deploy-status)](https://app.netlify.com/sites/freshui/deploys)
 
@@ -24,6 +26,9 @@ We would also appreciate people contributing their modified code to us through g
 # Added unpkg Support
 We have now added unpkg support and you can now use it from unpkg.
 Unpkg link ---> [unpkg](https://unpkg.com/browse/@freshui/freshui@latest/)
+
+# Added jsDeliver support
+We have now added jsDeliver cdn and now you can use it from [https://cdn.jsdelivr.net/npm/@freshui/freshui@latest/](https://cdn.jsdelivr.net/npm/@freshui/freshui@latest/)
 
 # SCSS Deprecated
 We now no longer support scss and therefore it is deprecated and you won't be able to use it.
