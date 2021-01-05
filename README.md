@@ -24,7 +24,7 @@ We would also appreciate people contributing their modified code to us through g
 <!--- No changes should be directly committed to the master branch without the notice and permissions of creator. --->
 # Added unpkg Support
 We have now added unpkg support and you can now use it from unpkg.
-Unpkg link ---> [https://unpkg.com/browse/@freshui/freshui@latest/css/fresh-ui.min.css](https://unpkg.com/browse/@freshui/freshui@latest/css/fresh-ui.min.css)
+Unpkg link ---> [https://unpkg.com/@freshui/freshui@latest/css/fresh-ui.min.css](https://unpkg.com/@freshui/freshui@latest/css/fresh-ui.min.css)
 
 # Added jsDeliver support
 We have now added jsDeliver cdn and now you can use it from [https://cdn.jsdelivr.net/npm/@freshui/freshui@latest/css/fresh-ui.min.css](https://cdn.jsdelivr.net/npm/@freshui/freshui@latest/css/fresh-ui.min.css)
