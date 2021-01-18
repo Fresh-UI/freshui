@@ -3,35 +3,15 @@ Welcome to the fresh-ui css.This is the fresh ui css file.
 It's based on the material design by google.
 */
 
-@import url(https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap);
 @import url(src/animate.min.css);
-:root{
-    --fr-ui-blue:#0d6efd;
-    --fr-ui-indigo:#6610f2;
-    --fr-ui-purple:#6f42c1;
-    --fr-ui-pink:#d63384;
-    --fr-ui-red:#dc3545;
-    --fr-ui-orange:#fd7e14;
-    --fr-ui-yellow:#ffc107;
-    --fr-ui-green:#28a745;
-    --fr-ui-teal:#20c997;
-    --fr-ui-cyan:#17a2b8;
-    --fr-ui-white:#fff;
-    --fr-ui-gray:#6c757d;
-    --fr-ui-gray-dark:#343a40;
-    --fr-ui-primary:#0d6efd;
-    --fr-ui-secondary:#6c757d;
-    --fr-ui-success:#28a745;
-    --fr-ui-info:#17a2b8;
-    --fr-ui-warning:#ffc107;
-    --fr-ui-danger:#dc3545;
-    --fr-ui-light:#f8f9fa;
-    --fr-ui-dark:#343a40;
-    --fr-ui-font-sans-serif:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
-    --fr-ui-font-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
-    --fr-ui-gradient:linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0))
+@font-face {
+    font-family:'Open Sans',sans-serif;
+    src: url(./src/fonts/open-sans.ttf);
 }
-body{font-family:'Open Sans',sans-serif;}
+:root{
+    --frui-main: #2196f3;
+}
+html,body{font-family:'Open Sans',sans-serif;}
 .destroy{color:#fff;font-weight:700}
 .none{display:none}
 .des{background:0 0;color:inherit;border:none;padding:0;font:inherit;cursor:pointer;outline:inherit}
