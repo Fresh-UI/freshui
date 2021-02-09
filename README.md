@@ -33,3 +33,4 @@ We have now added jsDeliver cdn and now you can use it from [https://cdn.jsdeliv
 
 # SCSS Deprecated
 We now no longer support scss and therefore it is deprecated and you won't be able to use it.
+
