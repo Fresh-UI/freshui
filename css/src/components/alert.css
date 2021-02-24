@@ -1,0 +1,43 @@
+.alert {
+  border-radius: 3px;
+  background-color: grey;
+  width: 100px;
+  text-align: center;
+}
+
+.alert-success {
+  background: #93e9be;
+  color: #006400;
+}
+
+.alert-info {
+  background-color: #b2e0dd;
+  color: #2baaff;
+}
+
+.alert-warning {
+  background-color: #fed8b1;
+  color: orange;
+}
+
+.alert-danger {
+  background-color: red;
+  color: #ff8635;
+}
+
+.alert-primary {
+  background-color: #8deeee;
+  color: #00c5cd;
+}
+
+.alert-secondary {
+  background: #d3d3d3;
+  color: #a9a9a9;
+}
+
+.alert-dark {
+  background: grey;
+  color: #000;
+}
+
+/*# sourceMappingURL=alert.css.map */

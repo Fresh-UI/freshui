@@ -7,11 +7,11 @@ It's based on the material design by google.
     font-family:'Open Sans',sans-serif;
     src: url(./src/fonts/open-sans.ttf);
 }
-@import url(./components/animate.scss);
-@import url(./components/alert.css);
-@import url(./components/button.css);
-@import url(./components/cards.css);
-@import url(./components/progress-bar.css);
+
+@import url(./src/components/alert.css);
+@import url(./src/components/button.css);
+@import url(./src/components/cards.css);
+@import url(./src/components/progress-bar.css);
 
 html,body {
   padding: 0;

@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/Fresh-UI/freshui?style=for-the-badge&color=2196f3)
 
-![NPM Version](https://img.shields.io/badge/dynamic/json?color=%232196f3&label=Version&logo=npm&style=for-the-badge&query=version&url=https%3A%2F%2Funpkg.com%2F%40freshui%2Ffreshui%40latest%2Fpackage.json)
+![NPM Version](https://img.shields.io/badge/dynamic/json?color=%232196f3&label=%20Version&query=version&url=https%3A%2F%2Funpkg.com%2F%40freshui%2Ffreshui%40latest%2Fpackage.json&logo=npm&style=for-the-badge&link=http://npmjs.com/package/@freshui/freshui&link=https://unpkg.com/browse/@freshui/freshui@latest/)
 
 ![GitHub Forks](https://img.shields.io/github/forks/Fresh-UI/freshui?style=for-the-badge&logo=github&color=2196f3)
 
