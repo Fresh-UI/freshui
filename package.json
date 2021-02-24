@@ -1,0 +1,33 @@
+{
+  "name": "@freshui/freshui",
+  "version": "0.5.4",
+  "description": "Fresh UI CSS framework is a CSS framework based on the material design by Google.",
+  "main": "index.js",
+  "devDependencies": {
+    "minify": "^7.0.0",
+    "node-sass": "^5.0.0"
+  },
+  "scripts": {
+    "compile": "npx node-sass css/fresh-ui.scss css/fresh-ui.css",
+    "minify": "npx minify css/fresh-ui.css > fresh-ui.min.css",
+    "build": "npx node-sass -o css/components css/components && npm run compile"
+  },
+  "author": "Debaditya Malakar",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://freshui.vercel.app/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fresh-UI/freshui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fresh-UI/freshui/issues"
+  },
+  "keywords": [
+    "CSS",
+    "Material",
+    "Design"
+  ]
+}

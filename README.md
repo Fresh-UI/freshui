@@ -24,15 +24,16 @@ Any ideas are welcome.
 
 We would also appreciate people contributing their modified code to us through gmail address: technicalfriend.help@gmail.com,fr.ui.official.2020@gmail.com
 <!--- No changes should be directly committed to the master branch without the notice and permissions of creator. --->
+
+# Added SCSS Back
+We have added scss back.
+
 # Added unpkg Support
 We have now added unpkg support and you can now use it from unpkg.
 Unpkg link ---> [https://unpkg.com/@freshui/freshui@latest/css/fresh-ui.min.css](https://unpkg.com/@freshui/freshui@latest/css/fresh-ui.min.css)
 
 # Added jsDeliver support
 We have now added jsDeliver cdn and now you can use it from [https://cdn.jsdelivr.net/npm/@freshui/freshui@latest/css/fresh-ui.min.css](https://cdn.jsdelivr.net/npm/@freshui/freshui@latest/css/fresh-ui.min.css)
-
-# SCSS Deprecated
-We now no longer support scss and therefore it is deprecated and you won't be able to use it.
 
 # Added Cards
 

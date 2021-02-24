@@ -1,0 +1,21 @@
+/*
+Welcome to the fresh-ui css.This is the fresh ui css file.
+It's based on the material design by google.
+*/
+
+@font-face {
+    font-family:'Open Sans',sans-serif;
+    src: url(./src/fonts/open-sans.ttf);
+}
+@import url(./components/animate.scss);
+@import url(./components/alert.css);
+@import url(./components/button.css);
+@import url(./components/cards.css);
+@import url(./components/progress-bar.css);
+
+html,body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family:'Open Sans',sans-serif;
+}
