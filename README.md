@@ -38,3 +38,7 @@ We have now added jsDeliver cdn and now you can use it from [https://cdn.jsdeliv
 # Added Cards
 
 Cards were deleted or missing from the releases due to some problems and have been added back
+
+# Added Progress Bars
+
+We have added progress bars
