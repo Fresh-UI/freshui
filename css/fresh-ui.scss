@@ -4,18 +4,23 @@ It's based on the material design by google.
 */
 
 @font-face {
-    font-family:'Open Sans',sans-serif;
+    font-family:'Open Sans';
     src: url(./src/fonts/open-sans.ttf);
 }
-
+@font-face {
+  font-family: 'Poppins';
+  src: url(./src/fonts/Poppins-Regular.ttf);
+}
+$sans-font: 'Poppins';
+$sans-font2: 'Open Sans';
 @import url(./src/components/alert.css);
 @import url(./src/components/button.css);
 @import url(./src/components/cards.css);
+@import url(./src/components/theme.css);
 @import url(./src/components/progress-bar.css);
-
 html,body {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family:'Open Sans',sans-serif;
+  font-family: $sans-font2,sans-serif;
 }

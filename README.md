@@ -42,3 +42,18 @@ Cards were deleted or missing from the releases due to some problems and have be
 # Added Progress Bars
 
 We have added progress bars
+
+# Added Themes
+
+We have added theme's.Currently there are only 3 themes. These are:
+
+<li>Dark Theme</li>
+<li>Light Theme</li>
+<li>Aqua Theme</li>
+
+Usage of theme is as simple as:
+
+<element theme="dark">
+</element>
+
+you can replace **dark** with the name of the theme you like
