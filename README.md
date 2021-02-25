@@ -53,7 +53,7 @@ We have added theme's.Currently there are only 3 themes. These are:
 
 Usage of theme is as simple as:
 
-<element theme="dark">
-</element>
+&lt;element theme="dark"&gt;
+&lt;/element&gt;
 
 you can replace **dark** with the name of the theme you like
