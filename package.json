@@ -1,11 +1,9 @@
 {
   "name": "@freshui/freshui",
-  "version": "0.5.8",
+  "version": "0.5.9",
   "description": "Fresh UI CSS framework is a CSS framework based on the material design by Google.",
   "main": "index.js",
   "devDependencies": {
-    "minify": "^7.0.0",
-    "node-sass": "^5.0.0",
     "sass": "^1.32.8",
     "uglifycss": "^0.0.29"
   },

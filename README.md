@@ -10,7 +10,7 @@
 
 # Fresh-UI
 
-Welcome to the fresh-ui css github page
+Welcome to the fresh-ui css README
 
 You can link the css using the cdn link: https://cdn.jsdelivr.net/npm/@freshui/freshui/css/fresh-ui.min.css
 # CDN CODE: 
@@ -53,7 +53,7 @@ We have added theme's.Currently there are only 3 themes. These are:
 
 Usage of theme is as simple as:
 
-&lt;element theme="dark"&gt;
-&lt;/element&gt;
+<element theme="dark">
+</element>
 
 you can replace **dark** with the name of the theme you like
