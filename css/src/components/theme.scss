@@ -1,26 +1,26 @@
-$dark-bg: black;
+$dark-bg: #111;
 $dark-text: #fff;
 $aqua-bg: #2196f3;
 $aqua-text: #fff;
 $light-bg: #fff;
 $light-text: #111;
-$sans-font: 'Poppins';
-$sans-font2: 'Open Sans';
 
 [theme="dark"] {
     background: $dark-bg;
     color: $dark-text;
-    font-family: $sans-font,sans-serif;
 }
 
 [theme="light"] {
     background: $light-bg;
     color: $light-text;
-    font-family: $sans-font,sans-serif;
 }
 
 [theme="aqua"] {
     background: $aqua-bg;
     color: $aqua-text;
-    font-family: $sans-font,sans-serif;
+}
+
+[theme="dracula"] {
+    background: $dark-bg;
+    color: #ff0000;
 }

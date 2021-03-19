@@ -1,0 +1,21 @@
+[theme=dark] {
+  background: #111;
+  color: #fff;
+}
+
+[theme=light] {
+  background: #fff;
+  color: #111;
+}
+
+[theme=aqua] {
+  background: #2196f3;
+  color: #fff;
+}
+
+[theme=dracula] {
+  background: #111;
+  color: #ff0000;
+}
+
+/*# sourceMappingURL=theme.css.map */
