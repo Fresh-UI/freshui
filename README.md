@@ -53,8 +53,8 @@ We have added theme's.Currently there are only 3 themes. These are:
 <li>Aqua Theme</li>
 
 Usage of theme is as simple as:
-
-<element theme="dark">
-</element>
+&lt;element theme="dark"&gt;
+Hello There!
+&lt;/element&gt;
 
 you can replace **dark** with the name of the theme you like
